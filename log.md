@@ -16,5 +16,5 @@
 
 **Time:** 1 hour
 
-**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202)
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202), 
           [Scatter Plot Link](https://github.com/dhruvkp090/100daysofML/blob/master/Andrew%20Ng/week%202/Figure_1.png)
