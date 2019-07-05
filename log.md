@@ -7,7 +7,7 @@
 **Thoughts:** I think if I spend enough time and effort into the course, I can finish it way before 11 weeks.
 
 **Time:** 1 hour 20 minutes
-
+#
 ### Day 1: 4 July 2019 
 
 **Today's Progress**: Finished Week 2 and started the programming assignment. 
