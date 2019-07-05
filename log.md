@@ -18,3 +18,12 @@
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202), 
           [Scatter Plot Link](https://github.com/dhruvkp090/100daysofML/blob/master/Andrew%20Ng/week%202/Figure_1.png)
+
+#
+### Day 1: 5 July 2019 
+
+**Today's Progress**: Listened to 3 episodes of the "Machine Learning Guide podcast"
+
+**Thoughts:** Very useful Podcast. Will use it before diving deeper into any topic.
+
+**Time:** 1 hour
