@@ -16,8 +16,7 @@
 
 **Time:** 1 hour
 
-**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202), 
-          [Scatter Plot Link](https://github.com/dhruvkp090/100daysofML/blob/master/Andrew%20Ng/week%202/Figure_1.png)
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202)
 
 #
 ### Day 2: 5 July 2019 
@@ -36,3 +35,14 @@
 **Thoughts:** Very useful Podcast. Will use it before diving deeper into any topic.
 
 **Time:** 1 hour
+
+#
+### Day 4: 7 July 2019 
+
+**Today's Progress**: Finished the week 2 coding assignment of the Andrew Ng course in python.
+
+**Thoughts:** Linear Regression, Gradient Descent and Loss function understood.
+
+**Time:** 2 hours
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202)
+
