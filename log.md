@@ -47,3 +47,12 @@
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%202)
 
+#
+### Day 5: 8 July 2019 
+
+**Today's Progress**: Finished week 3 videos of the Andrew Ng course.
+
+**Thoughts:** Hope to finish the programming assignment tomorrow.
+
+**Time:** 1 hour 30 minutes
+
