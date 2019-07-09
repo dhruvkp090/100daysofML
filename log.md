@@ -56,3 +56,13 @@
 
 **Time:** 1 hour 30 minutes
 
+#
+### Day 6: 9 July 2019 
+
+**Today's Progress**: Started Week 3 programming Assignment in python.
+
+**Thoughts:** Will complete it tomorrow and also start week 4.
+
+**Time:** 1 hour
+
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
