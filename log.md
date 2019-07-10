@@ -66,3 +66,14 @@
 **Time:** 1 hour
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
+
+#
+### Day 7: 10 July 2019 
+
+**Today's Progress**: Continued Week 3 programming Assignment in python.
+
+**Thoughts:** Taking Longer than Expected.
+
+**Time:** 1 hour
+
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
