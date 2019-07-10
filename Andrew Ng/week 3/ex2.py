@@ -2,6 +2,7 @@ import re
 import matplotlib.pyplot as plt
 import numpy as np
 import sigmoid
+import cost
 
 
 x1 = []
@@ -33,14 +34,18 @@ plt.scatter(neg1, neg2, c='blue', alpha=0.5)
 plt.title('Scatter plot of training data')
 plt.xlabel('Exam 1 Score')
 plt.ylabel('Exam 2 Score')
-plt.show()
-print(sigmoid.sigmoid(1))
+#plt.show()
+#print(sigmoid.sigmoid(np.array([[1,2],[3,4]])))
+X = np.c_[np.ones((m,1)),x1, x2]
+
+theta = np.zeros((3,1))
+J = cost.j(X, y, theta)
+print(J)
 '''
-X = np.c_[np.ones((m,1)), x]
-theta = np.zeros((2,1))
+
 iterations = 1500
 alpha = 0.01
-J = cost.j(X, y, [-1 , 2])
+
 theta = gradient.gradientD(X, y, theta, alpha, iterations)
 J = cost.j(X, y, theta)
 plt.plot(x, X.dot(theta), 'k-', lw=2)
