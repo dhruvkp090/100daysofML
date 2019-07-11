@@ -77,3 +77,12 @@
 **Time:** 1 hour
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
+
+#
+### Day 8: 11 July 2019 
+
+**Today's Progress**: Listened to 6th and 7th episodes of the "Machine Learning Guide podcast"
+
+**Thoughts:** Very useful Podcast. Will use it before diving deeper into any topic.
+
+**Time:** 1 hour
