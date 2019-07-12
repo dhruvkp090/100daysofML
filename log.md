@@ -86,3 +86,14 @@
 **Thoughts:** Very useful Podcast. Will use it before diving deeper into any topic.
 
 **Time:** 1 hour
+
+#
+### Day 9: 12 July 2019 
+
+**Today's Progress**: Finished Week 3 programming Assignment in python.
+
+**Thoughts:** Took way longer than expected. Got stuck on the gradient descent problem.
+
+**Time:** 2 hour
+
+**Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
