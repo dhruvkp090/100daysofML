@@ -2,7 +2,7 @@ import numpy as np
 import math
 import sigmoid
 
-def j(X,y, theta):
+def cost(X,y, theta):
     h = sigmoid.sigmoid(X.dot(theta))
     sum = 0
     for i in range(len(h)):
@@ -11,3 +11,9 @@ def j(X,y, theta):
     out = -1/(len(h))*sum
 
     return out
+
+def gradient(theta, x, y):
+    m = x.shape[0]
+    return  (1 / m) * np.dot(x.T, sigmoid.sigmoid(net_input(theta,   x)) - y)
+def net_input(theta, x):
+    return np.dot(x, theta)

@@ -37,22 +37,17 @@ plt.ylabel('Exam 2 Score')
 #plt.show()
 #print(sigmoid.sigmoid(np.array([[1,2],[3,4]])))
 X = np.c_[np.ones((m,1)),x1, x2]
-
+y = np.array(y)
 theta = np.zeros((3,1))
-J = cost.j(X, y, theta)
-print(J)
-'''
+J = cost.cost(X, y, theta)
+theta1 = cost.gradient(theta,X,y)
+theta = [-25.16131856, 0.20623159, 0.20147149]
+x_values = [np.min(X[:, 1] - 5), np.max(X[:, 2] + 5)]
+y_values = - (theta[0] + np.dot(theta[1], x_values)) / theta[2]
 
-iterations = 1500
-alpha = 0.01
-
-theta = gradient.gradientD(X, y, theta, alpha, iterations)
-J = cost.j(X, y, theta)
-plt.plot(x, X.dot(theta), 'k-', lw=2)
+plt.plot(x_values, y_values, label='Decision Boundary')
+plt.xlabel('Marks in 1st Exam')
+plt.ylabel('Marks in 2nd Exam')
+plt.legend()
 plt.show()
-predict1 = np.array([1,3.5]).dot(theta)
-predict2 = np.array([1,7]).dot(theta)
-print("*************PREDICTIONS***********************")
-print("Population of 35,000: " + str(predict1))
-print("Population of 70,000: " + str(predict2))
-'''
+#plt.show()
