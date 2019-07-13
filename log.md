@@ -97,3 +97,13 @@
 **Time:** 2 hour
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%203)
+
+#
+### Day 10: 13 July 2019 
+
+**Today's Progress**: Learnt about neural nets and finished week 4 of the Andrew Ng course.
+
+**Thoughts:** Will start with the programming assignment tomorrow.
+
+**Time:** 1 hour
+
