@@ -107,3 +107,12 @@
 
 **Time:** 1 hour
 
+#
+### Day 11: 14 July 2019 
+
+**Today's Progress**: Learnt about back propagation algorithm in Neural Nets. 
+
+**Thoughts:** To finish the assignment in the 4th week, I need to learn more about neural nets.
+
+**Time:** 1 hour
+
