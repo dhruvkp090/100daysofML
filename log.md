@@ -116,3 +116,12 @@
 
 **Time:** 1 hour
 
+#
+### Day 12: 15 July 2019 
+
+**Today's Progress**: Listened to 8th and 9th episodes of the "Machine Learning Guide podcast"
+
+**Thoughts:** Very useful Podcast. Will use it before diving deeper into any topic.
+
+**Time:** 1 hour
+
