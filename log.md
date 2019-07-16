@@ -125,3 +125,12 @@
 
 **Time:** 1 hour
 
+#
+### Day 13: 16 July 2019 
+
+**Today's Progress**: Got Started with the handwritten digits recognition neural network using MNIST dataset.
+
+**Thoughts:** I will hopefully finish it in 2 more days as I need to learn a lot for this project.
+
+**Time:** 1 hour
+
