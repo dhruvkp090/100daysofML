@@ -134,3 +134,12 @@
 
 **Time:** 1 hour
 
+#
+### Day 14: 17 July 2019 
+
+**Today's Progress**: Worked on the neural network. Almost completed the code for the neural network to recognize hand written digits.
+
+**Thoughts:** Minor bug fixes remaining.
+
+**Time:** 2 hours
+
