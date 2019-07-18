@@ -143,3 +143,12 @@
 
 **Time:** 2 hours
 
+#
+### Day 15: 18 July 2019 
+
+**Today's Progress**: Listened to 10th and 11th episodes of the "Machine Learning Guide podcast"
+
+**Thoughts:** 
+
+**Time:** 1 hours
+
