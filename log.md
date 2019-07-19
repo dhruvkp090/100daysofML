@@ -152,3 +152,12 @@
 
 **Time:** 1 hours
 
+#
+### Day 16: 19 July 2019 
+
+**Today's Progress**: Started reading the 100 page machine learning book.
+
+**Thoughts:** 
+
+**Time:** 1 hours
+
