@@ -161,3 +161,12 @@
 
 **Time:** 1 hours
 
+#
+### Day 17: 20 July 2019 
+
+**Today's Progress**: Finished the neural network to detect handwritten digits. With an accuracy of 97%.
+
+**Thoughts:** Learnt about back propagation and neural network design.
+
+**Time:** 1 hours
+
