@@ -172,3 +172,11 @@
 
 **Link:** [Folder Link](https://github.com/dhruvkp090/100daysofML/tree/master/Andrew%20Ng/week%204)
 
+#
+### Day 18: 21 July 2019 
+
+**Today's Progress**: Listened to 12th and 13th episodes of the "Machine Learning Guide podcast"
+
+**Thoughts:** 
+
+**Time:** 1 hours
