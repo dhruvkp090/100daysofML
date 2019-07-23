@@ -189,3 +189,13 @@
 **Thoughts:** 
 
 **Time:** 1 hours
+#
+
+### Day 20: 23 July 2019 
+
+**Today's Progress**: Finished week 5 videos on back propagation. 
+
+**Thoughts:** Will hopefully finish the programming assignment in 2 days.
+
+**Time:** 1 hours
+
