@@ -199,3 +199,12 @@
 
 **Time:** 1 hours
 
+
+#
+### Day 21: 24 July 2019 
+
+**Today's Progress**: Read the 100 page machine learning book.
+
+**Thoughts:** 
+
+**Time:** 1 hour
