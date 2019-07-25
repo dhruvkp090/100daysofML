@@ -208,3 +208,10 @@
 **Thoughts:** 
 
 **Time:** 1 hour
+
+#
+### Day 22: 25 July 2019 
+
+**Today's Progress**: Completed Week 5 and started week 6 videos.
+
+**Time:** 1 hour
