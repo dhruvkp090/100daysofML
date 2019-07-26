@@ -215,3 +215,11 @@
 **Today's Progress**: Completed Week 5 and started week 6 videos.
 
 **Time:** 1 hour
+
+
+#
+### Day 23: 26 July 2019 
+
+**Today's Progress**: Completed week 6 videos and started programming assignment.
+
+**Time:** 1 hour
