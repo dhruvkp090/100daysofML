@@ -223,3 +223,10 @@
 **Today's Progress**: Completed week 6 videos and started programming assignment.
 
 **Time:** 1 hour
+
+#
+### Day 24: 27 July 2019 
+
+**Today's Progress**: Researched about facial recognition technology.
+
+**Time:** 1 hour
