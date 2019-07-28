@@ -230,3 +230,10 @@
 **Today's Progress**: Researched about facial recognition technology.
 
 **Time:** 1 hour
+
+#
+### Day 25: 28 July 2019 
+
+**Today's Progress**: Listened to 14th and 15th episodes of the "Machine Learning Guide podcast"
+
+**Time:** 1 hours
