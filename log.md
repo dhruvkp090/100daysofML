@@ -237,3 +237,10 @@
 **Today's Progress**: Listened to 14th and 15th episodes of the "Machine Learning Guide podcast"
 
 **Time:** 1 hours
+
+#
+### Day 26: 29 July 2019 
+
+**Today's Progress**: Completed half of week 7 of the Andrew Ng course course.
+
+**Time:** 1 hours
