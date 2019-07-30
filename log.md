@@ -244,3 +244,10 @@
 **Today's Progress**: Completed half of week 7 of the Andrew Ng course course.
 
 **Time:** 1 hours
+
+#
+### Day 27: 30 July 2019 
+
+**Today's Progress**: Read about SVMs.
+
+**Time:** 1 hours
