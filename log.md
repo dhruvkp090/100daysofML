@@ -251,3 +251,12 @@
 **Today's Progress**: Read about SVMs.
 
 **Time:** 1 hours
+
+#
+### Day 28: 31 July 2019 
+
+**Today's Progress**: Completed Week 7 of the Andrew Ng course. 
+
+**Thoughts:** Have to to the spam detection in python later.
+
+**Time:** 1 hour
