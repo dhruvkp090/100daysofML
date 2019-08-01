@@ -260,3 +260,10 @@
 **Thoughts:** Have to to the spam detection in python later.
 
 **Time:** 1 hour
+
+#
+### Day 29: 1 August 2019 
+
+**Today's Progress**: Finished half of week 8 on K-Means Clustering. 
+
+**Time:** 1 hour
