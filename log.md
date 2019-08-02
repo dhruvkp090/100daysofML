@@ -267,3 +267,10 @@
 **Today's Progress**: Finished half of week 8 on K-Means Clustering. 
 
 **Time:** 1 hour
+
+#
+### Day 30: 2 August 2019 
+
+**Today's Progress**: Read about K-Means Clustering.
+
+**Time:** 1 hours
