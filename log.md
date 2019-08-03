@@ -274,3 +274,10 @@
 **Today's Progress**: Read about K-Means Clustering.
 
 **Time:** 1 hours
+
+#
+### Day 31: 3 August 2019 
+
+**Today's Progress**: Listened to 16th and 17th episodes of the "Machine Learning Guide podcast"
+
+**Time:** 1 hours
