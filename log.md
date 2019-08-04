@@ -281,3 +281,10 @@
 **Today's Progress**: Listened to 16th and 17th episodes of the "Machine Learning Guide podcast"
 
 **Time:** 1 hours
+
+#
+### Day 32: 4 August 2019 
+
+**Today's Progress**: Started reading the book 'Incognito'.
+
+**Time:** 1 hours
