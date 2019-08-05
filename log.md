@@ -288,3 +288,10 @@
 **Today's Progress**: Started reading the book 'Incognito'.
 
 **Time:** 1 hours
+
+#
+### Day 33: 5 August 2019 
+
+**Today's Progress**: Continued reading the book 'Incognito'.
+
+**Time:** 1 hours
