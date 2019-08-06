@@ -295,3 +295,10 @@
 **Today's Progress**: Continued reading the book 'Incognito'.
 
 **Time:** 1 hours
+
+#
+### Day 34: 6 August 2019 
+
+**Today's Progress**: Completed week 8 of the Andrew Ng course.
+
+**Time:** 1 hours
