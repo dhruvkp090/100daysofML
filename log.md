@@ -302,3 +302,10 @@
 **Today's Progress**: Completed week 8 of the Andrew Ng course.
 
 **Time:** 1 hours
+
+#
+### Day 35: 7 August 2019 
+
+**Today's Progress**: Completed half of week 9 of the Andrew Ng course.
+
+**Time:** 1 hours
