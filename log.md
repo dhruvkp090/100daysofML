@@ -309,3 +309,10 @@
 **Today's Progress**: Completed half of week 9 of the Andrew Ng course.
 
 **Time:** 1 hours
+
+#
+### Day 36: 8 August 2019
+
+**Today's Progress**: Continued the book 'Incognito'. A really insightful book. Really loving it.
+
+**Time:** 1 hours
