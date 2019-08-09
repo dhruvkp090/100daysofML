@@ -316,3 +316,10 @@
 **Today's Progress**: Continued the book 'Incognito'. A really insightful book. Really loving it.
 
 **Time:** 1 hours
+
+#
+### Day 37: 9 August 2019
+
+**Today's Progress**: Continued week 9 of the course. Kinda challenging. So taking my time.
+
+**Time:** 1 hours
