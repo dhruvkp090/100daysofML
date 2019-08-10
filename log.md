@@ -323,3 +323,10 @@
 **Today's Progress**: Continued week 9 of the course. Kinda challenging. So taking my time.
 
 **Time:** 1 hours
+
+#
+### Day 38: 10 August 2019
+
+**Today's Progress**: Read about anomaly detection.
+
+**Time:** 1 hours
