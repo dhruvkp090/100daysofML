@@ -330,3 +330,10 @@
 **Today's Progress**: Read about anomaly detection.
 
 **Time:** 1 hours
+
+#
+### Day 39: 11 August 2019 
+
+**Today's Progress**: Listened to 18th and 19th episodes of the "Machine Learning Guide podcast"
+
+**Time:** 1 hours
