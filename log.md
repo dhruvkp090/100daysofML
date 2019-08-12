@@ -337,3 +337,10 @@
 **Today's Progress**: Listened to 18th and 19th episodes of the "Machine Learning Guide podcast"
 
 **Time:** 1 hours
+
+#
+### Day 40: 12 August 2019 
+
+**Today's Progress**: Completed week 9 of the course.
+
+**Time:** 1 hours
