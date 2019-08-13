@@ -344,3 +344,10 @@
 **Today's Progress**: Completed week 9 of the course.
 
 **Time:** 1 hours
+
+#
+### Day 41: 13 August 2019 
+
+**Today's Progress**: Completed half of week 10 of the course.
+
+**Time:** 1 hours
