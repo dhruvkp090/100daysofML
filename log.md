@@ -351,3 +351,10 @@
 **Today's Progress**: Completed half of week 10 of the course.
 
 **Time:** 1 hours
+
+#
+### Day 42: 14 August 2019 
+
+**Today's Progress**: Researched about NLP and its implementation techniques.
+
+**Time:** 1 hours
