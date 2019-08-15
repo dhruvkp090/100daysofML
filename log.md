@@ -358,3 +358,11 @@
 **Today's Progress**: Researched about NLP and its implementation techniques.
 
 **Time:** 1 hours
+
+#
+### Day 43: 15 August 2019 
+
+**Today's Progress**: Listened to 20th and 21st episodes of the "Machine Learning Guide podcast"
+
+**Time:** 1 hours
+
