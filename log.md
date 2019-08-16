@@ -364,5 +364,14 @@
 
 **Today's Progress**: Listened to 20th and 21st episodes of the "Machine Learning Guide podcast"
 
-**Time:** 1 hours
+**Time:** 1 hour
+
+#
+### Day 44: 16 August 2019 
+
+**Today's Progress**: Completed week 10 and 11 of the course. With this, I have sucessfully completed the course.
+
+**Link:** https://www.coursera.org/account/accomplishments/certificate/VQNSEMJPBEV3
+
+**Time:** 1 hour
 
