@@ -375,3 +375,9 @@
 
 **Time:** 1 hour
 
+#
+### Day 45: 17 August 2019
+
+**Today's Progress**: Read about random forests.
+
+**Time:** 1 hours
