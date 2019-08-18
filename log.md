@@ -381,3 +381,10 @@
 **Today's Progress**: Read about random forests.
 
 **Time:** 1 hours
+
+#
+### Day 46: 18 August 2019
+
+**Today's Progress**: Took part in my first kaggle competition through a kaggle micro course. Completed the micro course.
+
+**Time:** 2 hours
