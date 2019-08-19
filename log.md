@@ -388,3 +388,12 @@
 **Today's Progress**: Took part in my first kaggle competition through a kaggle micro course. Completed the micro course.
 
 **Time:** 2 hours
+
+#
+### Day 47: 19 August 2019
+
+**Today's Progress**: Used tensorflow for the first time and learnt about CNNs.
+
+**Link:** https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb
+
+**Time:** 2 hours
