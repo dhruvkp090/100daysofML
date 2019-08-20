@@ -397,3 +397,12 @@
 **Link:** https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb
 
 **Time:** 2 hours
+
+#
+### Day 48: 20 August 2019
+
+**Today's Progress**: Submited the titanic problem solution on kaggle. 
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/titanic
+
+**Time:** 1.5 hours
