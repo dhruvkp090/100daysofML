@@ -406,3 +406,10 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/tree/master/titanic
 
 **Time:** 1.5 hours
+
+#
+### Day 49: 21 August 2019
+
+**Today's Progress**: Read about text summarization and also chatbots. Will start working on an FAQ chatbot from tomorrow! 
+
+**Time:** 1 hours
