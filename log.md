@@ -413,3 +413,10 @@
 **Today's Progress**: Read about text summarization and also chatbots. Will start working on an FAQ chatbot from tomorrow! 
 
 **Time:** 1 hours
+
+#
+### Day 50: 22 August 2019
+
+**Today's Progress**: read the book 'incognito' a really good read!
+
+**Time:** 1 hours 
