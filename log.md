@@ -419,4 +419,11 @@
 
 **Today's Progress**: read the book 'incognito' a really good read!
 
-**Time:** 1 hours 
+**Time:** 1 hours
+
+#
+### Day 51: 23 August 2019
+
+**Today's Progress**: Tinkered around with tensorflow for my chatbot project.
+
+**Time:** 1 hours
