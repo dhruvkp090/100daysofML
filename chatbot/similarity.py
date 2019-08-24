@@ -1,7 +1,7 @@
 '''
 Author: Dhruv Kumar Patwari (dhruvk090@gmail.com)
 
-Description: This file is used to check the similarity between two sentences.
+Description: This file is used to check the similarity between two sentences/Questions.
 
 
 '''
