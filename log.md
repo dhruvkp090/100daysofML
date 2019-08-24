@@ -427,3 +427,12 @@
 **Today's Progress**: Tinkered around with tensorflow for my chatbot project.
 
 **Time:** 1 hours
+
+#
+### Day 52: 24 August 2019
+
+**Today's Progress**: Completed the code for finding the similarty between two sentences. This will be used to find the similarity between questions in my FAQ chatbot.
+
+**Link:** https://github.com/dhruvkp090/100daysofML/blob/master/chatbot/similarity.py
+
+**Time:** 1.5 hours
