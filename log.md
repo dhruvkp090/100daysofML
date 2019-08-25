@@ -436,3 +436,12 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/blob/master/chatbot/similarity.py
 
 **Time:** 1.5 hours
+
+#
+### Day 53: 25 August 2019
+
+**Today's Progress**: Made the chatbot API using chatter bot. A lot of improvements needed.
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/chatbot/different_approach
+
+**Time:** 2 hours
