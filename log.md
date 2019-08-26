@@ -445,3 +445,12 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/tree/master/chatbot/different_approach
 
 **Time:** 2 hours
+
+#
+### Day 54: 26 August 2019
+
+**Today's Progress**: Made a movie recommendation system based on NLTK. 
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/movie_recommender
+
+**Time:** 1.5 hours
