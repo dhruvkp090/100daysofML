@@ -454,3 +454,11 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/tree/master/movie_recommender
 
 **Time:** 1.5 hours
+
+
+#
+### Day 55: 27 August 2019
+
+**Today's Progress**: Learnt about random forests on fast.ai
+
+**Time:** 1 hours
