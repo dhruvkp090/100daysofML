@@ -462,3 +462,11 @@
 **Today's Progress**: Learnt about random forests on fast.ai
 
 **Time:** 1 hours
+
+
+#
+### Day 56: 28 August 2019
+
+**Today's Progress**: Worked a little on the chatbot that I am building. Making slow progress though.
+
+**Time:** 1 hours
