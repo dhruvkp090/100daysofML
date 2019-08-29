@@ -470,3 +470,10 @@
 **Today's Progress**: Worked a little on the chatbot that I am building. Making slow progress though.
 
 **Time:** 1 hours
+
+#
+### Day 57: 29 August 2019
+
+**Today's Progress**: Got an invite for the beginner kaggle challenge. Worked on that today.
+
+**Time:** 1 hours
