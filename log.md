@@ -477,3 +477,10 @@
 **Today's Progress**: Got an invite for the beginner kaggle challenge. Worked on that today.
 
 **Time:** 1 hours
+
+#
+### Day 58: 30 August 2019
+
+**Today's Progress**: Read a bit about chatbot integration with telegram. 
+
+**Time:** 1 hours
