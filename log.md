@@ -484,3 +484,10 @@
 **Today's Progress**: Read a bit about chatbot integration with telegram. 
 
 **Time:** 1 hours
+
+#
+### Day 59: 31 August 2019
+
+**Today's Progress**: Tried the telegram implementation but faced a problem. Will hopefully fix it tomorrow.
+
+**Time:** 1 hours
