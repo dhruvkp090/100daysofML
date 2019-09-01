@@ -491,3 +491,11 @@
 **Today's Progress**: Tried the telegram implementation but faced a problem. Will hopefully fix it tomorrow.
 
 **Time:** 1 hours
+
+
+#
+### Day 60: 1 September 2019
+
+**Today's Progress**: Played around with opencv for a while.
+
+**Time:** 1 hours
