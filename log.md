@@ -499,3 +499,13 @@
 **Today's Progress**: Played around with opencv for a while.
 
 **Time:** 1 hours
+
+
+#
+### Day 61: 2 September 2019
+
+**Today's Progress**: Completed the FAQ chatbot for the event "La-Elvitia"!! Can be used directly from telegram. But need to host my code somewhere.
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/FAQchatBot
+
+**Time:** 2.5 hours
