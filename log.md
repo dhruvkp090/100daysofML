@@ -509,3 +509,12 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/tree/master/FAQchatBot
 
 **Time:** 2.5 hours
+
+#
+### Day 62: 3 September 2019
+
+**Today's Progress**: Made a few changes to the chatbot.
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/FAQchatBot
+
+**Time:** 1 hours
