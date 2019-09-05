@@ -518,3 +518,17 @@
 **Link:** https://github.com/dhruvkp090/100daysofML/tree/master/FAQchatBot
 
 **Time:** 1 hours
+
+#
+### Day 63: 4 September 2019
+
+**Today's Progress**: Read about CNNs and how to implement them.
+
+**Time:** 1 hours
+
+#
+### Day 64: 5 September 2019
+
+**Today's Progress**: Used numpy and pandas to work on a kaggle competition.
+
+**Time:** 1 hours
