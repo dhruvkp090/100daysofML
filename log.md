@@ -532,3 +532,10 @@
 **Today's Progress**: Used numpy and pandas to work on a kaggle competition.
 
 **Time:** 1 hours
+
+#
+### Day 65: 6 September 2019
+
+**Today's Progress**: Deployed the chatbot on heroku using the postgres database. Still have a few changes to be made.
+
+**Time:** 1 hours
