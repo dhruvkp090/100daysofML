@@ -539,3 +539,10 @@
 **Today's Progress**: Deployed the chatbot on heroku using the postgres database. Still have a few changes to be made.
 
 **Time:** 1 hours
+
+#
+### Day 66: 7 September 2019
+
+**Today's Progress**: Read this amazing paper: http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf. A must read!
+
+**Time:** 1 hours
