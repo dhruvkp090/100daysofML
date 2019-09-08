@@ -546,3 +546,10 @@
 **Today's Progress**: Read this amazing paper: http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf. A must read!
 
 **Time:** 1 hours
+
+#
+### Day 67: 8 September 2019
+
+**Today's Progress**: Sucessfully hosted my postgres database on heroku. But faced some difficulty in hosting my code. Will try again tomorrow.
+
+**Time:** 2 hours
