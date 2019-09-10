@@ -553,3 +553,10 @@
 **Today's Progress**: Sucessfully hosted my postgres database on heroku. But faced some difficulty in hosting my code. Will try again tomorrow.
 
 **Time:** 2 hours
+
+#
+### Day 68: 10 September 2019
+
+**Today's Progress**: Missed yesterday.. Today, I tried my hands on some deep learning and tried to follow along with siraj raval's art generation live stream. Went well.
+
+**Time:** 1.5 hours
