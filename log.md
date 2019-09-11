@@ -560,3 +560,10 @@
 **Today's Progress**: Missed yesterday.. Today, I tried my hands on some deep learning and tried to follow along with siraj raval's art generation live stream. Went well.
 
 **Time:** 1.5 hours
+
+#
+### Day 69: 11 September 2019
+
+**Today's Progress**: Read about YOLO and went through some of the implementation options. Also tried deploying my chat-bot again.. faced some new challenges today. Hopefully I can rectify them tomorrow! 
+
+**Time:** 1.5 hours
