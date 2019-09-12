@@ -567,3 +567,10 @@
 **Today's Progress**: Read about YOLO and went through some of the implementation options. Also tried deploying my chat-bot again.. faced some new challenges today. Hopefully I can rectify them tomorrow! 
 
 **Time:** 1.5 hours
+
+#
+### Day 70: 12 September 2019
+
+**Today's Progress**: Finally hosted my chatbot on heroku!! Had a lot of minor issures, but i'm glad I solved most of them. A few still remail and I hope to finish it by tomorrow!
+
+**Time:** 2 hours
