@@ -574,3 +574,10 @@
 **Today's Progress**: Finally hosted my chatbot on heroku!! Had a lot of minor issures, but i'm glad I solved most of them. A few still remail and I hope to finish it by tomorrow!
 
 **Time:** 2 hours
+
+#
+### Day 71: 14 September 2019
+
+**Today's Progress**: Watched a few videos of the fast.ai course on Deep Learning.
+
+**Time:** 2 hours
