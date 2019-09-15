@@ -581,3 +581,10 @@
 **Today's Progress**: Watched a few videos of the fast.ai course on Deep Learning.
 
 **Time:** 2 hours
+
+#
+### Day 72: 15 September 2019
+
+**Today's Progress**: Solved all the issues that i was facing with the chatbot hosting!! It is finally hosted on heroku!! 
+
+**Time:** 1 hours
