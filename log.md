@@ -588,3 +588,10 @@
 **Today's Progress**: Solved all the issues that i was facing with the chatbot hosting!! It is finally hosted on heroku!! 
 
 **Time:** 1 hours
+
+#
+### Day 73: 18 September 2019
+
+**Today's Progress**: Looked into Keras and it's implementation
+
+**Time:** 1 hours
