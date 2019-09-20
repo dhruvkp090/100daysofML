@@ -595,3 +595,11 @@
 **Today's Progress**: Looked into Keras and it's implementation
 
 **Time:** 1 hours
+
+
+#
+### Day 74: 20 September 2019
+
+**Today's Progress**: Worked with openCV for face detection. Still a long way to go.
+
+**Time:** 1 hours
