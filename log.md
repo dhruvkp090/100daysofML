@@ -603,3 +603,11 @@
 **Today's Progress**: Worked with openCV for face detection. Still a long way to go.
 
 **Time:** 1 hours
+
+#
+### Day 75 to 77: 21 to 23 September 2019
+
+**Today's Progress**: Read this book called " Artificial Intelligence A Modern Approach" 
+
+**Time:** 3 hours
+
