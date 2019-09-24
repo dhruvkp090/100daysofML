@@ -611,3 +611,12 @@
 
 **Time:** 3 hours
 
+#
+### Day 78: 24 September 2019
+
+**Today's Progress**: Made a stocks price predictor using SVMs.
+
+**Link:** https://github.com/dhruvkp090/100daysofML/tree/master/stock_pred
+
+**Time:** 1.5 hours
+
