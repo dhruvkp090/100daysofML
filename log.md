@@ -620,3 +620,10 @@
 
 **Time:** 1.5 hours
 
+#
+### Day 79: 25 September 2019
+
+**Today's Progress**: Trying to make an open ended chatbot using tensorflow. Looking at various reddit data or movie dialogues for this.
+
+**Time:** 1.5 hours
+
