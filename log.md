@@ -627,3 +627,11 @@
 
 **Time:** 1.5 hours
 
+
+#
+### Day 81: 27 September 2019
+
+**Today's Progress**: Busy day.. got a bit of reading and project review in thought.. Happy for that!
+
+**Time:** 1.5 hours
+
