@@ -635,3 +635,10 @@
 
 **Time:** 1.5 hours
 
+#
+### Day 82: 28 September 2019
+
+**Today's Progress**:  Training my image classifier using keras and tensorflow!  
+
+**Time:** 2 hours
+
