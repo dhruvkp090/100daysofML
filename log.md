@@ -642,3 +642,10 @@
 
 **Time:** 2 hours
 
+#
+### Day 83: 29 September 2019
+
+**Today's Progress**:  Continued working on the image classifier. Made a few modifications to the model.
+
+**Time:** 1 hours
+
