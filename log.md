@@ -649,3 +649,10 @@
 
 **Time:** 1 hours
 
+#
+### Day 84: 30 September 2019
+
+**Today's Progress**:  Got an accuracy on 83% on my image classifier, Have to find a way to make it better.
+
+**Time:** 1 hours
+
