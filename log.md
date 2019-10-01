@@ -656,3 +656,10 @@
 
 **Time:** 1 hours
 
+#
+### Day 85: 1 October 2019
+
+**Today's Progress**:  Read a bit about other Deep Learning projects. Pretty interesting.
+
+**Time:** 1 hours
+
