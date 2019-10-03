@@ -663,3 +663,10 @@
 
 **Time:** 1 hours
 
+#
+### Day 86, 87: 2,3 October 2019
+
+**Today's Progress**:  Read about BERT and tried to use it on my local system. Hit a few road blocks.
+
+**Time:** 1 hours
+
