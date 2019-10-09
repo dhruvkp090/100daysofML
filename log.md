@@ -670,3 +670,10 @@
 
 **Time:** 1 hours
 
+#
+### Day 88 to 93: 4 to 9 October 2019
+
+**Today's Progress**:  Couldn't update in the past week but continued working on my project. I read about BERT, run it on my computer and also learned about XLNet. Not the most productive week though.
+
+**Time:** 1 hours
+
